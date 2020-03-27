@@ -119,6 +119,10 @@ PRODUCT_PACKAGES += \
     PixelSetupWizardOverlay \
     PixelSetupWizardAodOverlay
 
+ # Long screenshot
+PRODUCT_PACKAGES += \
+    Longshot
+    
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
